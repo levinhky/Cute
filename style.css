@@ -5,19 +5,18 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #000; /* Nền màu đen */
-}
+    background-color: #000; 
 
 .container {
     text-align: center;
-    background: #1e1e1e; /* Nền container màu xám tối */
+    background: #1e1e1e;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 h1 {
-    color: #fff; /* Chữ màu trắng */
+    color: #fff; 
     margin-bottom: 20px;
 }
 
@@ -25,9 +24,9 @@ select {
     padding: 10px;
     font-size: 16px;
     margin-bottom: 20px;
-    background-color: #333; /* Nền select màu xám đậm */
-    color: #fff; /* Chữ màu trắng */
-    border: 1px solid #444; /* Viền select màu xám nhạt */
+    background-color: #333; 
+    color: #fff;
+    border: 1px solid #444; 
     border-radius: 4px;
 }
 
@@ -38,6 +37,6 @@ select {
 img {
     max-width: 100%;
     height: auto;
-    border: 1px solid #444; /* Viền ảnh màu xám nhạt */
+    border: 1px solid #444;
     border-radius: 4px;
 }
